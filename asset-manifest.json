@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lofi-music-app/static/css/main.291f003f.chunk.css",
+    "main.css": "/lofi-music-app/static/css/main.931c8219.chunk.css",
     "main.js": "/lofi-music-app/static/js/main.501876d6.chunk.js",
     "main.js.map": "/lofi-music-app/static/js/main.501876d6.chunk.js.map",
     "runtime-main.js": "/lofi-music-app/static/js/runtime-main.3c03f910.js",
@@ -8,13 +8,13 @@
     "static/js/2.76840203.chunk.js": "/lofi-music-app/static/js/2.76840203.chunk.js",
     "static/js/2.76840203.chunk.js.map": "/lofi-music-app/static/js/2.76840203.chunk.js.map",
     "index.html": "/lofi-music-app/index.html",
-    "static/css/main.291f003f.chunk.css.map": "/lofi-music-app/static/css/main.291f003f.chunk.css.map",
+    "static/css/main.931c8219.chunk.css.map": "/lofi-music-app/static/css/main.931c8219.chunk.css.map",
     "static/js/2.76840203.chunk.js.LICENSE.txt": "/lofi-music-app/static/js/2.76840203.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3c03f910.js",
     "static/js/2.76840203.chunk.js",
-    "static/css/main.291f003f.chunk.css",
+    "static/css/main.931c8219.chunk.css",
     "static/js/main.501876d6.chunk.js"
   ]
 }
