@@ -1,0 +1,23 @@
+nav {
+  min-height: 10vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  h2 {
+    font-weight: bold;
+  }
+
+  button {
+    outline: none;
+    background-color: transparent;
+    cursor: pointer;
+    border: 3px solid #5a5959;
+    padding: 0.5rem;
+    transition: all 0.3s ease;
+    &:hover {
+      background-color: #5a5959;
+      color: white;
+    }
+  }
+}

@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&display=swap");
+
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: rgb(85, 85, 85);
+}
+
+.App {
+  transition: all 0.5s ease;
+}
+
+.library-active {
+  margin-left: 30%;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 20px;
+
+  h3 {
+    font-size: 1rem;
+  }
+
+  strong {
+    a {
+      color: rgb(85, 85, 85);
+      font-weight: 700;
+    }
+  }
+}
+
+@import "./player";
+@import "./song";
+@import "./library";
+@import "./nav";
